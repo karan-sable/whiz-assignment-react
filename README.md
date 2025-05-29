@@ -2,8 +2,6 @@
 
 A React application demonstrating an infinite scroll product list with search filtering, smooth UX features, and responsive design. Built using React hooks, Axios, Tailwind CSS, and Intersection Observer API.
 
----
-
 ## Installation
 
 1. Clone the repository:
@@ -59,4 +57,6 @@ A React application demonstrating an infinite scroll product list with search fi
 - **Dark Mode Support**  
   Components styled to support light and dark themes (Tailwind CSS).
 
----
+## Live
+
+The application is also hosted on https://whiz-assignment-react.vercel.app/
